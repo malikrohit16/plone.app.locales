@@ -426,7 +426,8 @@ msgstr ""
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Init instruction for requirejs shim"
-msgstr "Init-Anweisung für RequireJS Shim"
+msgstr "Init-Anweisung für requirejs shim"
+
 
 #: ./patterns/tinymce/pattern.js
 msgid "Insert"
@@ -454,7 +455,7 @@ msgstr ""
 
 #: ./patterns/thememapper/js/lessbuilderview.js
 msgid "LESS Builder"
-msgstr "LESS Kompiler"
+msgstr ""
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Last compilation"
